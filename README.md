@@ -24,6 +24,7 @@ pip freeze > requirements.txt
 
 # create wercker.yml
 ...
+apt-get libevent stuff
 
 # add to git
 git init
