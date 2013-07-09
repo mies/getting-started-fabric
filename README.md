@@ -3,6 +3,10 @@ getting-started-fabric
 
 Sample application for wercker and fabric-based deployment
 
+Status on wercker:
+[![Wercker
+status](https://app.wercker.com/status/1fdd6d59d5347df9b0d596bfe608ca34/m)](https://app.wercker.com/project/bykey/1fdd6d59d5347df9b0d596bfe608ca34)
+
 # create virtualenv
 virtualenv venv --distribute
 
